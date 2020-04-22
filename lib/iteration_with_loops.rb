@@ -9,7 +9,6 @@ def find_even_values(src)
     row_index += 1
   end
 end
-end
 
 # Given an Array of Arrays of Integers ( [ 
   #[10, 11], 
